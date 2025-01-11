@@ -31,9 +31,7 @@ By following the steps below, you can easily add custom fields, configure their 
        }
    ]
 
----
-
-## How to Use  
+--- 
 
 ### Step 3: Export the Fixtures  
 1. Once you have updated the field names in the `hooks.py` file, navigate to your local development environment where your custom app is installed.  
