@@ -31,12 +31,6 @@ By following the steps below, you can easily add custom fields, configure their 
        }
    ]
 
-# Custom Hooks for ERPNext Doctype Customization  
-
-This repository contains a sample `hooks.py` file designed to help you customize Doctypes in ERPNext using **Custom Apps** while keeping the core system untouched.  
-
-By following the steps below, you can easily configure your customizations and export fixtures for a seamless upgrade-safe experience.  
-
 ---
 
 ## How to Use  
